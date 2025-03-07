@@ -3,7 +3,7 @@
 
 
 ##Instruction to run
--- build your Docker image:
+- build your Docker image:
 ```bash
 docker build -t dog-breed-assistant .
 ```
