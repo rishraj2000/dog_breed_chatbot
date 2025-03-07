@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain_groq
+langchain_experimental
+streamlit
+docker
+tabulate
