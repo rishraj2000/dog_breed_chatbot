@@ -2,7 +2,7 @@
 [Watch the video](https://github.com/rishraj2000/dog_breed_chatbot/raw/main/video/dog_breed_1_0.mp4)
 
 
-##Instruction to run
+## Instruction to run
 - build your Docker image:
 ```bash
 docker build -t dog-breed-assistant .
