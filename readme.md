@@ -21,3 +21,8 @@ docker build -t dog-breed-assistant .
  ```bash
 docker run -p 8000:8000 dog-breed-assistant
 ```
+
+- Run the Streamlit UI:
+ ```bash
+streamlit run ui.py
+```
